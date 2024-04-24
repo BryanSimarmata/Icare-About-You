@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("images/bokur.jpg"); /* Path relatif ke gambar latar belakang */
+    background-size: cover;
+    background-position: center;
+}
